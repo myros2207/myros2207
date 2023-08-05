@@ -61,8 +61,8 @@
     <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" alt="Redux's logo" />
 </a>
 
-<a title="Fastapi" href="https://fastapi.tiangolo.com/">
-    <img height="40" src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="Fastapi's logo" />
+<a title="ChakraUI" href="https://redux.js.org/">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" alt="Redux's logo" />
 </a>
 
 <a title="Testing library" href="https://testing-library.com">
