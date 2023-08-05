@@ -7,9 +7,9 @@
 
 ## ❤️‍🔥 Most loved technologies
 
--   <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> React
--   <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"> TS
--   <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> JS
+-   <img width="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> React
+-   <img width="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"> TS
+-   <img width="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> JS
 -   <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/styled-components/styled-components.png"> Styled-components
 
 
