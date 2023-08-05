@@ -61,10 +61,6 @@
     <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" alt="Redux's logo" />
 </a>
 
-<a title="ChakraUI" href="https://redux.js.org/">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" alt="Redux's logo" />
-</a>
-
 <a title="Testing library" href="https://testing-library.com">
     <img height="40" src="https://s.gravatar.com/avatar/2f2eda5f99088f9a2bd3c7d65775f323" alt="Testing library's logo" />
 </a>
@@ -112,6 +108,11 @@
 <a title="Terminal" href="https://en.wikipedia.org/wiki/HTTP_404">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="Terminal's logo" />
 </a>
-
+<a title="Chakra-Ui" href="https://chakra-ui.com/">
+    <img height="40" src="./img/chakraui.svg" alt="Chakra ui" />
+</a>
+<a title="Mui" href="https://mui.com/">
+    <img height="40" src="./img/mui.svg" alt="Mui Ui" />
+</a>
 </p>
 </div>
